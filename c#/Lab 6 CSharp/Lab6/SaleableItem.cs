@@ -8,7 +8,7 @@ namespace Lab6
 {
     public interface SaleableItem
     {
-        public void sellCopy();
-        public double getPrice();
+        void sellCopy();
+        double getPrice();
     }
 }

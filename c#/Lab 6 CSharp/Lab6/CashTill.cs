@@ -10,7 +10,7 @@ namespace Lab6
     {
         private Double runningTotal;
 
-        CashTill()
+        public CashTill()
         {
             runningTotal = 0;
         }

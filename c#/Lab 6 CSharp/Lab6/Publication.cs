@@ -17,7 +17,7 @@ namespace Lab6
             get { return title; }
             set { this.title = value; }
         }
-
+        
         public Double Price
         {
             get { return price; }
